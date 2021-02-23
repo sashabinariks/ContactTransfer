@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="connect">Connect</string>
+    <string name="user_list">User list</string>
+
+    <string name="device_info">Your ID %1$s, name %2$s</string>
+
+
+    <string name="invite">%1$s wants to send you phone contacts.</string>
+
+    <string name="invite_feedback">%1$s %2$s your invite.</string>
+    <string name="phonebook">Phonebook</string>
+    <string name="send_all_contacts">Send all contacts</string>
+
+    <string name="connection_details">You are %1$s data %2$s %3$s.</string>
+    <string name="ok">Ok</string>
+
+</resources>
